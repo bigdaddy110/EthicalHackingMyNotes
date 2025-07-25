@@ -1,0 +1,107 @@
+1. pwd – Print Working Directory
+Displays the full path of your current directory. This is useful to know your exact location within the file system.
+Hostinger
++2
+Kali Linux Forum
++2
+Stackify
++2
+
+bash
+Copy
+Edit
+pwd
+Example Output:
+
+bash
+Copy
+Edit
+/home/kali
+2. ls – List Directory Contents
+Lists files and directories in your current location.
+DigitalOcean
++5
+Kali Linux Forum
++5
+Stackify
++5
+
+bash
+Copy
+Edit
+ls
+Common options:
+
+-l for detailed listings
+
+-a to show hidden files
+GitHub
++6
+Stackify
++6
+Kali Linux Forum
++6
+
+3. cd – Change Directory
+Allows you to navigate between directories.
+Hostinger
++2
+Stackify
++2
+Kali Linux Forum
++2
+
+bash
+Copy
+Edit
+cd /path/to/directory
+Shortcuts:
+
+:contentReference[oaicite:46]{index=46} to move up one directory level
+
+cd to return to the home directory
+DigitalOcean
++4
+Kali Linux Forum
++4
+Stackify
++4
+
+4. mkdir – Make Directory
+Creates a new directory.
+DigitalOcean
++3
+Kali Linux Forum
++3
+Webasha
++3
+
+bash
+Copy
+Edit
+mkdir new_folder
+To create nested directories:
+
+bash
+Copy
+Edit
+mkdir -p parent/child/grandchild
+5. rm – Remove Files or Directories
+Deletes files or directories.
+Hostinger
++2
+Stackify
++2
+DigitalOcean
++2
+
+bash
+Copy
+Edit
+rm filename
+To remove a directory and its contents:
+
+bash
+Copy
+Edit
+rm -r directory_name
