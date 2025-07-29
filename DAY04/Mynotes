@@ -1,0 +1,102 @@
+1. Address (in Networking)
+Definition:
+In networking, an address refers to a unique identifier assigned to a device (like a computer, smartphone, or printer) so it can be located and communicated with on a network.
+
+Types of Addresses:
+MAC Address (Media Access Control):
+
+A unique hardware address for network interfaces.
+
+Format: 00:1A:2B:3C:4D:5E
+
+Assigned by device manufacturer.
+
+IP Address (Internet Protocol):
+
+A logical address used to identify devices on a network.
+
+Changes depending on network location (e.g., home Wi-Fi vs office).
+
+ 2. IP Address (Internet Protocol Address)
+Definition:
+An IP Address is a numerical label assigned to each device connected to a computer network that uses the Internet Protocol for communication.
+
+Types:
+IPv4 (Internet Protocol version 4):
+
+32-bit number: 192.168.1.1
+
+Supports about 4.3 billion addresses.
+
+IPv6 (Internet Protocol version 6):
+
+128-bit number: 2001:0db8:85a3:0000:0000:8a2e:0370:7334
+
+Supports a vastly larger number of addresses.
+
+IP Address Classification:
+Private IP: Used within a local network (e.g., 192.168.0.1)
+
+Public IP: Used for communication over the internet.
+
+3. TCP (Transmission Control Protocol)
+Definition:
+TCP is a core protocol of the Internet Protocol Suite that ensures reliable, ordered, and error-checked delivery of data between applications.
+
+Key Features:
+Connection-Oriented: Establishes a connection before data is sent.
+
+Reliable Delivery: Guarantees data reaches its destination without errors or loss.
+
+Three-Way Handshake:
+
+SYN (synchronize)
+
+SYN-ACK (synchronize-acknowledge)
+
+ACK (acknowledge)
+
+Used By: Web browsing (HTTP/HTTPS), email (SMTP), file transfer (FTP).
+
+4. Network
+Definition:
+A network is a group of two or more interconnected computers that can share resources and communicate with each other.
+
+Types of Networks:
+LAN (Local Area Network):
+
+Covers a small area (e.g., home, office).
+
+WAN (Wide Area Network):
+
+Covers large geographical areas (e.g., the internet).
+
+MAN (Metropolitan Area Network):
+
+Spans a city or campus.
+
+Components:
+Router: Connects networks.
+
+Switch: Connects devices within a network.
+
+Modem: Connects to the internet.
+
+5. ISP (Internet Service Provider)
+Definition:
+An ISP is a company that provides users with access to the Internet and related services such as email, web hosting, and domain registration.
+
+Roles of ISP:
+Assigns public IP addresses.
+
+Provides broadband/fiber/dial-up connections.
+
+Offers DNS services (resolves domain names to IPs).
+
+May enforce data limits or speeds (bandwidth).
+
+Examples:
+Jio, Airtel, BSNL (India)
+
+Comcast, Verizon, AT&T (USA)
+
